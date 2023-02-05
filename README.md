@@ -1,6 +1,6 @@
 # Detail
 
-- ![](https://img.shields.io/badge/Name-The-Fade-%23B4161B)
+- ![](https://img.shields.io/badge/Name-TheFade-%23B4161B)
 - ![](https://img.shields.io/badge/Tech-ReactJS-%23383CC1)
 - ![](https://img.shields.io/badge/Bundler-Vite-%233DBE29)
 
