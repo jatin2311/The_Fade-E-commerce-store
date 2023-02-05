@@ -28,10 +28,10 @@ const Header = () => {
             Home
           </Link>
           <Link
-            to="/collection"
+            to="/store"
             className="text-xl font-semibold hover:animate-pulse hover:underline"
           >
-            Collection
+            Store
           </Link>
           <div className="flex">
             <Link to="/cart" className="text-xl font-semibold">
@@ -59,11 +59,11 @@ const Header = () => {
                   Home
                 </Link>
                 <Link
-                  to="/collection"
+                  to="/store"
                   className="text-xl font-base w-36 py-1 "
                   onClick={() => setToggleMenu(false)}
                 >
-                  Collection
+                  Store
                 </Link>
                 <div className="flex w-36 ">
                   <Link
